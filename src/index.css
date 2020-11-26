@@ -27,3 +27,8 @@
   flex-direction: row;
 }
 
+.moves-list-increase * {
+  font-size: larger;
+  font-weight: bold;
+}
+
