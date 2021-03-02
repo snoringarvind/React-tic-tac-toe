@@ -1,0 +1,2 @@
+.square{width:50px;height:50px;border:1px solid #000;font-size:45px;display:flex;justify-content:center;align-items:center;margin:0 -1px -1px 0;float:left;cursor:pointer}.board-row:after{content:"";clear:both;display:table}.game{display:flex;flex-direction:row}.moves-list-increase *{font-size:larger;font-weight:700}
+/*# sourceMappingURL=main.4146ad7a.chunk.css.map */
